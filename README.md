@@ -259,19 +259,6 @@ Software developer and project manager with **2+ years** of experience deliverin
 
 ---
 
-## <img src="https://img.shields.io/badge/-GitHub%20Analytics-6d28d9?style=for-the-badge" alt="Analytics" />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alamhasnain&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd&ring_color=7c3aed" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alamhasnain&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=8b5cf6&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=a78bfa&sideNums=a78bfa&dates=6d28d9" width="49%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamhasnain&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd" width="40%" alt="Top Languages" />
-</p>
-
----
-
 ## <img src="https://img.shields.io/badge/-GitHub%20Trophies-6d28d9?style=for-the-badge" alt="Trophies" />
 
 <p align="center">
@@ -284,14 +271,6 @@ Software developer and project manager with **2+ years** of experience deliverin
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alamhasnain&theme=midnight-purple&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c4b5fd&area=true&area_color=6d28d9" width="98%" alt="Activity Graph" />
-</p>
-
----
-
-## <img src="https://img.shields.io/badge/-Contribution%20Snake-6d28d9?style=for-the-badge" alt="Snake" />
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alamhasnain/alamhasnain/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
